@@ -10,6 +10,7 @@ version 1.2:
  
  notice:
     - assignment 1 I do not fork and just start a new project.Sorry about that.
-    
+ 
+ScreenShot:
 ![Weather application - Design](display/weather1.2.gif)
 
